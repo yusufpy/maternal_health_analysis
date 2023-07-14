@@ -1,6 +1,7 @@
 # maternal_health_analysis
 The health of women throughout pregnancy, childbirth, and the postpartum period is referred to as maternal health. Despite significant advancement over the past 20 years, 295 000 women died during or after pregnancy and childbirth in 2017. This number is unacceptably high. In addition to indirect factors including anaemia, and malaria, the most frequent direct causes of maternal injury and death are excessive blood loss, infection, and high blood pressure. Most maternal deaths are preventable with timely management by skilled professionals working together across different disciplines
-Task
+# Task
+
 Imagine you are a data scientist working alongside clinicians, interested in analysing maternal health data, and identifying evidence based actions with an aim to improve health outcomes.
 Produce a report answering the following questions. 
 1)    Build and fit a linear model, assuming that the response variable is Systolic BP, and the exploratory variable(s) of your choice. Explain why you chose these exploratory variables.
